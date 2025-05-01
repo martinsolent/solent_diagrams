@@ -1,17 +1,20 @@
-<mxfile host="Electron" modified="2023-11-29T10:00:55.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="wzkkVZAMwTV6R_1KWRYc" version="21.1.2" type="device">
-  <diagram name="new UX MSc Dev" id="DKDKvVT1Q9gt-SyOUMTg">
-    <mxGraphModel dx="2054" dy="814" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="Electron" modified="2023-04-22T12:05:08.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="gPgrof-RiN8b_rVmwYqk" version="21.1.2" type="device">
+  <diagram name="Page-1" id="DKDKvVT1Q9gt-SyOUMTg">
+    <mxGraphModel dx="2818" dy="825" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sExQ2e1FXWfIQ1LsxVie-1" value="User Research (30 Credits)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="-552" y="224" width="350" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="sExQ2e1FXWfIQ1LsxVie-3" value="Interactive Design&amp;nbsp;&amp;nbsp;(30 Credits)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;" parent="1" vertex="1">
+        <mxCell id="sExQ2e1FXWfIQ1LsxVie-3" value="Usability Testing (30 Credits)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="-168" y="224" width="352" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="sExQ2e1FXWfIQ1LsxVie-4" value="Visual Design (30 Credits)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=23;" parent="1" vertex="1">
+        <mxCell id="sExQ2e1FXWfIQ1LsxVie-4" value="Visual Design&amp;nbsp;(30 Credits)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="-554" y="128" width="352" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sExQ2e1FXWfIQ1LsxVie-5" value="Interactive Design&amp;nbsp;&amp;nbsp;(30 Credits)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-168" y="128" width="352" height="64" as="geometry" />
         </mxCell>
         <mxCell id="sExQ2e1FXWfIQ1LsxVie-6" value="Dissertation&amp;nbsp; (60 Credits)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="-552" y="320" width="736" height="64" as="geometry" />
@@ -25,11 +28,8 @@
         <mxCell id="sExQ2e1FXWfIQ1LsxVie-15" value="Semester 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="-776" y="320" width="190" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="sExQ2e1FXWfIQ1LsxVie-16" value="&lt;font style=&quot;font-size: 41px;&quot;&gt;MSc User Experience (UX) Design&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-628" y="32" width="648" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="eueU4j3jYYlcHYJZc4aX-1" value="Shared Module&amp;nbsp; (30 Credits)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-168" y="128" width="352" height="64" as="geometry" />
+        <mxCell id="sExQ2e1FXWfIQ1LsxVie-16" value="&lt;font style=&quot;font-size: 41px;&quot;&gt;MSc User Experience (UX)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="32" width="512" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

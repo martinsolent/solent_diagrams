@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2024-03-24T12:40:33.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="-2F0NOnXztM6I4IJeus6" version="23.1.5" type="device">
+  <diagram name="Page-1" id="X8sa7Uz_50DedTfU64fO">
+    <mxGraphModel dx="1227" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=27;" parent="1" source="_MCHHk_vUDDbTN3gdEus-1" target="_MCHHk_vUDDbTN3gdEus-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;A Module Leader gets a colleague to enrol &lt;br&gt;on their SOL module as an (internal) &lt;b&gt;Moderator&amp;nbsp;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="130" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-2" target="_MCHHk_vUDDbTN3gdEus-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_MCHHk_vUDDbTN3gdEus-2" target="_MCHHk_vUDDbTN3gdEus-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Make sure they select the role of&amp;nbsp;&lt;b&gt;Moderator&amp;nbsp;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="250" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-4" target="_MCHHk_vUDDbTN3gdEus-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-4" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Create the&amp;nbsp;&lt;b&gt;assessment &lt;br&gt;brief/s&lt;/b&gt; (inc. Refers)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="360" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-5" target="_MCHHk_vUDDbTN3gdEus-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-5" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Populate the &lt;br&gt;&lt;b&gt;Peer Review&lt;/b&gt; form&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="440" y="360" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-8" target="_MCHHk_vUDDbTN3gdEus-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-8" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Get the (internal) &lt;b&gt;Moderator&lt;/b&gt; to check&lt;br&gt;&amp;nbsp;brief/s &amp;amp; sign the &lt;b&gt;Peer Review &lt;/b&gt;form&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="486" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-11" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Upload the Brief/s and signed-off &lt;b&gt;Peer Review&lt;/b&gt; form to the &lt;b&gt;Moderation folde&lt;/b&gt;r on the SOL &lt;b&gt;Assessment&lt;/b&gt;&amp;nbsp;tab&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="606" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-14" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Start of Module - &lt;/b&gt;Do this at&lt;b&gt; least a week &lt;/b&gt;before teaching starts&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="50" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=27;" parent="1" source="_MCHHk_vUDDbTN3gdEus-16" target="_MCHHk_vUDDbTN3gdEus-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-16" value="&lt;font color=&quot;#030303&quot; style=&quot;font-size: 22px;&quot;&gt;Select samples for moderation either &lt;b&gt;10% of&lt;br&gt;&lt;span style=&quot;line-height: 107%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Helvetica, sans-serif&quot;&gt;submissions&lt;/font&gt;&lt;/span&gt;&amp;nbsp;or minimum of 5&lt;/b&gt; on SOL&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="840" width="600" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-19" target="_MCHHk_vUDDbTN3gdEus-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-19" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;font color=&quot;#030303&quot;&gt;Make sure they &lt;b&gt;cover the range of grades&lt;/b&gt; awarded&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="980" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-25" target="_MCHHk_vUDDbTN3gdEus-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-25" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;font color=&quot;#030303&quot;&gt;Check they have all been correctly&lt;br&gt;&amp;nbsp;presented in the &lt;b&gt;Grade Report&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1079" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-26" target="_MCHHk_vUDDbTN3gdEus-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-26" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Fill out the &lt;b&gt;Internal Moderation form &lt;/b&gt;&lt;br&gt;&amp;amp;&lt;b&gt;&amp;nbsp;list the students &amp;amp; their grades&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1200" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-27" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;End of Module - &lt;/b&gt;Do this once marking is complete&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="115" y="780" width="610" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-29" target="_MCHHk_vUDDbTN3gdEus-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-29" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Get the&amp;nbsp;Internal&lt;b&gt; Moderator&amp;nbsp;&lt;/b&gt;to review the&lt;br&gt;samples &amp;amp; sign-off the form&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1320" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-31" target="_MCHHk_vUDDbTN3gdEus-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-31" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;Upload the&lt;/span&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt; Internal Moderation form &lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;to&lt;br&gt;the&amp;nbsp;&lt;b style=&quot;&quot;&gt;Moderation folder &lt;/b&gt;on SOL.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 19px; line-height: 107%; font-family: Helvetica, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;b&gt;No need&lt;/b&gt; to upload the samples in here as the Moderators can &lt;br&gt;access the work using the&amp;nbsp;&lt;b&gt;YES&lt;/b&gt; link in the grade report&lt;/span&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1450" width="600" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-33" target="_MCHHk_vUDDbTN3gdEus-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-33" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Confirm to the Course Leader or Link Tutor&lt;/b&gt; that&lt;br&gt;samples &lt;b&gt;are ready for the Externals.&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1620" width="600" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_MCHHk_vUDDbTN3gdEus-35" target="_MCHHk_vUDDbTN3gdEus-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-35" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Course Leaders and Link Tutors&lt;/b&gt;&amp;nbsp;will contact the&lt;br&gt;&lt;b&gt;Externals &lt;/b&gt;that samples are ready to be Moderated&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1754" width="600" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_MCHHk_vUDDbTN3gdEus-37" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Externals &lt;/b&gt;will moderate samples on all their allocated modules &amp;amp; fill in the &lt;b&gt;External Examiner Feedback&lt;br&gt;&lt;/b&gt;on the SOL Grade Reports&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1900" width="600" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

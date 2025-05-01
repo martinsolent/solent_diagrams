@@ -1,0 +1,65 @@
+<mxfile host="Electron" modified="2023-05-30T11:14:32.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="osnHkB-4bLUB7GXaGReL" version="21.1.2" type="device">
+  <diagram name="Page-1" id="jIcI9wMgQmj9ej9V0eqO">
+    <mxGraphModel dx="1404" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" parent="1" source="ag_dvPu49ns3yVr7HCFX-1" target="ag_dvPu49ns3yVr7HCFX-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-1" value="Initiation" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="280" y="60" width="580" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-2" value="Identification of the need for a new updated system initiated by new requirements or specific problems.&lt;br&gt;&amp;nbsp;The agreement on terms of reference before the start of any feasibility study." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ag_dvPu49ns3yVr7HCFX-1" vertex="1">
+          <mxGeometry y="35" width="570" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" parent="1" source="ag_dvPu49ns3yVr7HCFX-3" target="ag_dvPu49ns3yVr7HCFX-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-3" value="Feasibility" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="280" y="190" width="580" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-4" value="&amp;nbsp;Investigation of the viability of a project in terms of the financial, technical and operational viewpoints." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ag_dvPu49ns3yVr7HCFX-3" vertex="1">
+          <mxGeometry x="10" y="30" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" parent="1" source="ag_dvPu49ns3yVr7HCFX-7" target="ag_dvPu49ns3yVr7HCFX-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-7" value="Analysis" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="280" y="300" width="580" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-8" value="The analysis of facts found at the investigation stage will culminate in a statement of user requirements.&lt;br&gt;&amp;nbsp;This approach will take account of both structured and object-oriented methods,&lt;br&gt;~and these will also be used to produce an updated version of the user requirements document&lt;br&gt;&amp;nbsp;to re-address appropriate initial analyses as system requirements change." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ag_dvPu49ns3yVr7HCFX-7" vertex="1">
+          <mxGeometry y="30" width="570" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" parent="1" source="ag_dvPu49ns3yVr7HCFX-10" target="ag_dvPu49ns3yVr7HCFX-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-10" value="Design" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="280" y="450" width="580" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-11" value="Incorporates the transition from analysis to design using conceptual diagramming&lt;br&gt;&amp;nbsp;techniques as appropriate for both structured and object-oriented methods." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ag_dvPu49ns3yVr7HCFX-10" vertex="1">
+          <mxGeometry x="65" y="30" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-14" value="Construction and Implementation" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="280" y="570" width="580" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-15" value="Takes account of elementary planning control and scheduling, presentation of a proposed new system,&lt;br&gt;&amp;nbsp;implementation tasks including testing, installation strategies, handover, training,&lt;br&gt;&amp;nbsp;quality assurance and documentation." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ag_dvPu49ns3yVr7HCFX-14" vertex="1">
+          <mxGeometry y="30" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-17" value="Maintenance and Review" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="280" y="700" width="580" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-18" value="Including amendment procedures, configuration management, and post-implementation review." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ag_dvPu49ns3yVr7HCFX-17" vertex="1">
+          <mxGeometry x="20" y="30" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ag_dvPu49ns3yVr7HCFX-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" parent="1" source="ag_dvPu49ns3yVr7HCFX-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

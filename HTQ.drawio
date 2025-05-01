@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-06-02T08:16:09.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="M95EY09s6RZJ1XApCViu" version="21.1.2" type="device" pages="3">
+<mxfile host="Electron" modified="2024-05-17T15:28:30.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="be6jpezHfMReGGZ8j4GW" version="24.4.0" type="device" pages="3">
   <diagram id="r1cW9Qy5rZCnc5JwJftQ" name="HTQ-Data">
-    <mxGraphModel dx="1418" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1227" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,10 +10,10 @@
         <mxCell id="AhBAlUWz0eXs_37fpTmo-1" value="&lt;font face=&quot;Verdana&quot;&gt;Problem Solving through Programming COM411&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="180" y="100" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AhBAlUWz0eXs_37fpTmo-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;Systems Analysis &amp;amp; Design Work Based Project COM423&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="700" y="210" width="240" height="80" as="geometry" />
+        <mxCell id="AhBAlUWz0eXs_37fpTmo-2" value="&lt;div style=&quot;&quot;&gt;Systems Analysis &amp;amp; Design Work Based Project COM423&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="700" y="100" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0PuK2IEjYNuETIe_y6O-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AhBAlUWz0eXs_37fpTmo-3" target="AhBAlUWz0eXs_37fpTmo-2" edge="1">
+        <mxCell id="-mE9M0d5LDqC0eWjaK8f-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AhBAlUWz0eXs_37fpTmo-3" target="AhBAlUWz0eXs_37fpTmo-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AhBAlUWz0eXs_37fpTmo-3" value="&lt;font face=&quot;Verdana&quot;&gt;Data Analysis, Tools and Application COM418&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -25,16 +25,16 @@
         <mxCell id="AhBAlUWz0eXs_37fpTmo-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="180" y="210" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AhBAlUWz0eXs_37fpTmo-5" value="&lt;div style=&quot;line-height: 1.2;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px; letter-spacing: -0.6px;&quot;&gt;Introduction to Databases&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; letter-spacing: -0.6px;&quot;&gt;COM417&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="700" y="100" width="240" height="80" as="geometry" />
+        <mxCell id="AhBAlUWz0eXs_37fpTmo-5" value="&lt;div style=&quot;line-height: 1.2;&quot;&gt;Introduction to Databases&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 14px; letter-spacing: -0.6px;&quot;&gt;COM417&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="700" y="210" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0PuK2IEjYNuETIe_y6O-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AhBAlUWz0eXs_37fpTmo-6" target="AhBAlUWz0eXs_37fpTmo-5" edge="1">
+        <mxCell id="-mE9M0d5LDqC0eWjaK8f-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AhBAlUWz0eXs_37fpTmo-6" target="AhBAlUWz0eXs_37fpTmo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AhBAlUWz0eXs_37fpTmo-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; letter-spacing: -0.6px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;Principles &amp;amp; Methods&lt;br&gt;of Data Analysis COM425&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="AhBAlUWz0eXs_37fpTmo-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; letter-spacing: -0.6px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;Principles &amp;amp; Methods&lt;br&gt;of Data Analysis COM427&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="100" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QOqrDjpGhj_Eyvq6YrJ5-1" value="Level 4 - Data Analyst - HNC" style="text;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Verdana;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="QOqrDjpGhj_Eyvq6YrJ5-1" value="Level 4 - Data Analyst - HNC (HTQ)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Verdana;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="830" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35p1qUXs-UMOGd6sHHHs-1" value="&lt;font face=&quot;Verdana&quot;&gt;Semester 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">

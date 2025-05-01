@@ -1,0 +1,100 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="CgPPLiHVFCSRpRB38rtM">
+    <mxGraphModel dx="2965" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-1" value="Sarah Radif&#xa;Head of Science &amp; Engineering" style="fillColor=#cdeb8b;strokeColor=#36393d;rounded=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="640" y="90" width="1240" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-2" value="Dr Marc Molinari&#xa;Lead Computer Scientist, DHoD RKE&#xa;Deputy Head of Department for Research and Knowledge Exchange&#xa;" style="fillColor=#eeeeee;strokeColor=#36393d;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="170" width="615" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-3" value="Martin Reid&#xa;Apprenticeship Programme Manager – Digital&#xa;Course Leader &amp; Senior Lecturer&#xa;Course Leader for:&#xa;Computing Foundation&#xa;Data Analyst HNC (HTQ)&#xa; Level 4 Data Analyst HNC Apprenticeship&#xa;Digital &amp; Technology Solutions Professional Degree Apprenticeship&#xa;MSc User Experience (UX) Design (NEW 2025)" style="fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1059" y="260" width="405" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-4" value="Dr Shakeel Ahmad&#xa;Associate Professor in Computing&#xa;Course Leader for:&#xa;BSc (Hons) Computer Networks Engineering&#xa;BSc (Hons) Cyber Security&#xa;MSc Applied AI and Data Science&#xa;MSc Cyber Security  (NEW 2025)&#xa;" style="fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="260" width="402" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-5" value="Dr Taiwo Ayodele&#xa;Course Leader &amp; Senior Lecturer in Science and Engineering&#xa;Course Leader for:&#xa;BSc (Hons) Software Engineering&#xa;BSc (Hons) Computer Science&#xa;MSc Software Engineering  (NEW 2025)" style="fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="260" width="402" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-6" value="Teaching Staff (Computing)" style="fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;shadow=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="640" y="420" width="1240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-8" value="Dr Anthony Basiel&#xa;PT Lecturer Computing (UX)" style="fillColor=#99FF99;strokeColor=#b85450;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1642" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-9" value="Dr Bode Amangele&#xa;Lecturer Computing (Cyber Com Network)" style="fillColor=#ffcc99;strokeColor=#36393d;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1141.5" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-10" value="Darren Cunningham&#xa;Lecturer in Computing" style="fillColor=#f8cecc;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="570" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-11" value="Kenton Wheeler&#xa;Associate Lecturer in Computing" style="fillColor=#CCE5FF;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="570" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-12" value="Dr Neville Palmer&#xa;Senior Lecturer in Communications Engineering" style="fillColor=#ffcc99;strokeColor=#36393d;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-13" value="Dr Nick Whitelegg&#xa;Senior Lecturer in Computing (Internet)" style="fillColor=#f8cecc;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="570" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-14" value="Warren Earle&#xa;Senior Lecturer in Computer Networking" style="fillColor=#ffcc99;strokeColor=#36393d;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-16" value="Dr Armen Petrosyan&#xa;Associate Lecturer in Computing" style="fillColor=#CCE5FF;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="660" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-17" value="Dr Craig Gallen&#xa;Associate Lecturer in Computing" style="fillColor=#f8cecc;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="570" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6vpdyIg8YPO8qq2WCj2D-18" value="Michael Smith&#xa;Technician Instructor" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3290" y="672" width="211" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xCNVd-bkEWd8C-_w3Bgj-2" value="Michael Smith&#xa;Technician Instructor Network Computing" style="fillColor=#ffcc99;strokeColor=#36393d;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xCNVd-bkEWd8C-_w3Bgj-3" value="Dr Raza Hasan&#xa;Senior Lecturer Computing AI &#xa;and Data Science" style="fillColor=#cdeb8b;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="660" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xCNVd-bkEWd8C-_w3Bgj-4" value="Dr Jarutas Andritsch&#xa;Lecturer in Computing" style="fillColor=#cdeb8b;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="660" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xCNVd-bkEWd8C-_w3Bgj-5" value="Dr Bacha Rehman&#xa;Senior Lecturer Computing AI&#xa;and Data Science" style="fillColor=#cdeb8b;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1391.5" y="660" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xCNVd-bkEWd8C-_w3Bgj-6" value="Dr Kashif Talpur&#xa;Lecturer Computing AI and Data Science" style="fillColor=#cdeb8b;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="660" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xCNVd-bkEWd8C-_w3Bgj-7" value="Monkiz Khasreen&#xa; Course Leader Architectural DT - DHoD Ed&#xa;Deputy Head of Department for Education" style="fillColor=#eeeeee;strokeColor=#36393d;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="170" width="615" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="xCNVd-bkEWd8C-_w3Bgj-10" value="Dr Daniel Olabanji &#xa;Lecturer Software Development Web" style="fillColor=#f8cecc;strokeColor=#000000;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="570" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJjzLMv42z9UymEX57w_-1" value="MAIDS (AI &amp; DATA SCIENCE) TUTORS" style="fillColor=#cdeb8b;strokeColor=#36393d;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="892" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FJjzLMv42z9UymEX57w_-5" value="NETWORK &amp; CYBER TUTORS" style="fillColor=#ffcc99;strokeColor=#36393d;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="892" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FJjzLMv42z9UymEX57w_-6" value="UG DATA TUTORS" style="fillColor=#CCE5FF;strokeColor=#b85450;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="892" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FJjzLMv42z9UymEX57w_-7" value="WEB &amp; DEV TUTORS" style="fillColor=#f8cecc;strokeColor=#b85450;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="892" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FJjzLMv42z9UymEX57w_-8" value="UX &amp; GENERAL STUDIES" style="fillColor=#99FF99;strokeColor=#b85450;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1635" y="892" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FJjzLMv42z9UymEX57w_-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;KEY&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38NfMUQ7Y_IEQdAAeyy5-1" value="Dr Kalin Penev&#xa;Associate Professor, Systems Engineering" style="fillColor=#FFCC99;strokeColor=#000000;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="750" width="240" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
