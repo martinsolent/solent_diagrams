@@ -1,569 +1,307 @@
-<mxfile host="Electron" modified="2023-04-22T13:28:08.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="DtZPy-8g9afu2tffnRRH" version="21.1.2" type="device" pages="3">
-  <diagram id="dpGVi1HllsctUq-KaAiR" name="BDATS - SEM 1">
-    <mxGraphModel dx="2332" dy="971" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="-UDw3oveUEhRjFhQycbo-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Tuesdays L4&amp;nbsp; - All Pathways&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="160" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-1" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM411&lt;br&gt;Problem Solving through Programming)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-2" value="&lt;span style=&quot;font-size: 16px&quot;&gt;COM412&lt;br&gt;Introduction to Networks&lt;br&gt;&amp;amp; Security&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="460" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="460" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - NETWORK&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="680" y="160" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-6" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM515&lt;br&gt;&amp;nbsp;Enterprise Networks&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="680" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM511&lt;br&gt;Network Systems Automation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="900" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="900" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="680" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - CYBER&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="680" y="380" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-11" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM521&lt;br&gt;&amp;nbsp;Ethical hacking&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="680" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM511&lt;br&gt;Network Systems Automation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="900" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="900" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="680" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - SOFTWARE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="680" y="600" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-16" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM528&lt;br&gt;&amp;nbsp;Object orientated&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="680" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM519&lt;br&gt;Advanced Databases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="900" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-18" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="900" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-19" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="680" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-20" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - DATA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="680" y="821" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-21" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM517&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 11pt; font-family: Calibri, sans-serif; border: 1pt none windowtext; padding: 0cm;&quot;&gt;Analytics and Business Intelligence&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="680" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM519&lt;br&gt;Advanced Databases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="900" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-23" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="900" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-24" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="680" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-30" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Thursday L6 CYBER&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="380" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-31" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM613&lt;br&gt;Cyber Ops&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM615&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Network Management&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-33" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-34" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-35" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Thursday L6 - SOFTWARE&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="600" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-36" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM624&lt;br&gt;&amp;nbsp;Machine Learning&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM619&lt;br&gt;Dev Ops&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-38" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-39" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-40" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Thursday L6 - DATA&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="821" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-41" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;COM624&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;Machine Learning&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-42" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM621&lt;br&gt;&amp;nbsp;UX&amp;nbsp; Strategies&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-43" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OLuD3v9CsdE47--eV9Q-44" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="872" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HGT_rsCarZPwaE3R4nFB-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Thursday L6 - NETWORKING&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="160" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HGT_rsCarZPwaE3R4nFB-12" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM611&lt;br&gt;Computer Systems&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HGT_rsCarZPwaE3R4nFB-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM615&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Network Management&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HGT_rsCarZPwaE3R4nFB-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HGT_rsCarZPwaE3R4nFB-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0K_IOrLI0tBDZyWmZ6-7-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Thursday L6 -&amp;nbsp;&lt;/font&gt;IT Consultant &lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="1041" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0K_IOrLI0tBDZyWmZ6-7-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM621&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;UX&amp;nbsp; Strategies&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="1141" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0K_IOrLI0tBDZyWmZ6-7-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM619&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Dev Ops&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="1141" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0K_IOrLI0tBDZyWmZ6-7-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="1091" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0K_IOrLI0tBDZyWmZ6-7-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="1091" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0K_IOrLI0tBDZyWmZ6-7-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="60" width="1300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6f3IqqdrzJDAKrH8Y-RG-1" value="BDATS DEGREE APPRENTICESHIP DELIVERY - SEMESTER 1 (Sept-Jan)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="374" y="65" width="1020" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="BDATS - SEM 2" id="eDzaWIYM3wd5yQpe71sp">
-    <mxGraphModel dx="1466" dy="971" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
-      <root>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-0" />
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-1" parent="nvKIJ28qwbhSWqyQM3mr-0" />
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - NETWORK&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="160" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM512&lt;br&gt;Network Security&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM513&lt;br&gt;Network Engineering&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="900" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="900" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - CYBER&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="380" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM512&lt;br&gt;Network Security&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM522&lt;br&gt;Threat Intelligence Analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="900" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="900" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-16" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - SOFTWARE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="600" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM527&lt;br&gt;Mobile Application Dev&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM526&lt;br&gt;Introduction to AI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="900" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-20" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="900" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - DATA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="821" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM529&lt;br&gt;Economic &amp;amp; Financial Analysis&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM526&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Introduction to AI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="900" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="900" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-26" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="680" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-27" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Thursday L6 CYBER&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="380" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM617&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Industrial Consulting Project&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM614&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Cloud Computing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-30" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-31" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-32" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Thursday L6 - SOFTWARE&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="600" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM617&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Industrial Consulting Project&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM618&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Data Science&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-35" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-36" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-37" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Thursday L6 - DATA&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="821" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM617&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Industrial Consulting Project&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-39" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM618&lt;br&gt;Data Science&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-40" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-41" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="872" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-42" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Thursday L6 - NETWORKING&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="160" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM617&lt;br&gt;&amp;nbsp;Industrial Consulting Project&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM614&lt;br&gt;Cloud Computing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-45" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-46" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-47" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Thursday L6 -&amp;nbsp;&lt;/font&gt;IT Consultant &lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="1041" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM617&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;Industrial Consulting Project&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="1141" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM618&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Data Science&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="1141" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-50" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1340" y="1091" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-51" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="1120" y="1091" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="240" y="60" width="1300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nvKIJ28qwbhSWqyQM3mr-53" value="BDATS DEGREE APPRENTICESHIP DELIVERY - SEMESTER 2 (Jan-May)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;fontStyle=1" parent="nvKIJ28qwbhSWqyQM3mr-1" vertex="1">
-          <mxGeometry x="374" y="65" width="1020" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-0" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Tuesday L4 - NETWORK&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="160" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM415&lt;br&gt;Cyber Security Essentials &lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM417&lt;br&gt;Introduction to Databases&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="460" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="460" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Tuesday&lt;/b&gt;&lt;b&gt;&amp;nbsp;L4 - CYBER&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="380" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM415&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Cyber Security Essentials&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM417&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Introduction to Databases&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="460" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="460" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Tuesday&lt;/b&gt;&lt;b&gt;&amp;nbsp;L4 - SOFTWARE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="600" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM422&lt;br&gt;Software Testing &amp;amp; Reliability Engineering&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM417&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Introduction to Databases&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="460" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="460" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Tuesday&lt;/b&gt;&lt;b&gt;&amp;nbsp;L4 - DATA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="821" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM418&lt;br&gt;Data Analysis Tools &amp;amp; Application&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM417&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Introduction to Databases&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="460" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-18" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="460" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyBQ32VsWKPBfGmYMHZk-19" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="nvKIJ28qwbhSWqyQM3mr-1">
-          <mxGeometry x="240" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="BDATS - SEM 3" id="bAWRMhxbK4lThoLXx4Rh">
-    <mxGraphModel dx="1466" dy="971" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
-      <root>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-0" />
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-1" parent="z80Zeq63Nkb3A3HY7hVA-0" />
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - NETWORK&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="160" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM532&lt;br&gt;Work Based IT Project Management&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM530&lt;br&gt;Work Based Business Organisation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="900" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="900" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - CYBER&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="380" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM532&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based IT Project Management&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM530&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based Business Organisation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="900" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="900" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - SOFTWARE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="600" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM532&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based IT Project Management&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM530&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based Business Organisation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="900" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="900" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-16" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Wednesday L5 - DATA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="821" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM532&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based IT Project Management&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM530&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based Business Organisation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="900" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-20" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="900" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="680" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Thursday L6 CYBER&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="380" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-23" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;COM625 - Synoptic Work Based IT Project&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="480" width="420" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1340" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-26" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-27" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Thursday L6 - SOFTWARE&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="600" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-28" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;COM625 - Synoptic Work Based IT Project&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="700" width="420" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-30" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1340" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-31" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-32" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Thursday L6 - DATA&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="821" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-33" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;COM625 - Synoptic Work Based IT Project&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="921" width="420" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-35" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1340" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-36" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="872" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-37" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Thursday L6 - NETWORKING&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="160" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-38" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;COM625 - Synoptic Work Based IT Project&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="260" width="420" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-40" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1340" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-41" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-42" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Thursday L6 -&amp;nbsp;&lt;/font&gt;IT Consultant &lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="1041" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-43" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;COM625 - Synoptic Work Based IT Project&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="1141" width="420" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-45" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1340" y="1091" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-46" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="1120" y="1091" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="60" width="1300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-48" value="BDATS DEGREE APPRENTICESHIP DELIVERY - SEMESTER 3 (May-Sept)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;fontStyle=1" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="369" y="65" width="1030" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-49" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Tuesday L4 - NETWORK&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="160" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM423&lt;br&gt;Systems Analysis &amp;amp; Design&amp;nbsp;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM414&lt;br&gt;Routing &amp;amp; Switching&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="460" y="260" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-52" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="460" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-53" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="210" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-54" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Tuesday&lt;/b&gt;&lt;b&gt;&amp;nbsp;L4 - CYBER&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="380" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM423&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Systems Analysis &amp;amp; Design&amp;nbsp;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-56" value="COM414&lt;br style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Routing &amp;amp; Switching&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="460" y="480" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-57" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="460" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-58" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="430" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-59" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Tuesday&lt;/b&gt;&lt;b&gt;&amp;nbsp;L4 - SOFTWARE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="600" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM423&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Systems Analysis &amp;amp; Design&amp;nbsp;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-61" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM421&lt;br&gt;Data Structures, &lt;br&gt;Algorithms &amp;amp; Maths&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="460" y="700" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-62" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="460" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-63" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="650" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-64" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Tuesday&lt;/b&gt;&lt;b&gt;&amp;nbsp;L4 - DATA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="821" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-65" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM423&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Systems Analysis &amp;amp; Design&amp;nbsp;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-66" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM421&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Data Structures,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Algorithms &amp;amp; Maths&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="460" y="921" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-67" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="460" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z80Zeq63Nkb3A3HY7hVA-68" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="z80Zeq63Nkb3A3HY7hVA-1">
-          <mxGeometry x="240" y="871" width="200" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e" pages="7">
+    <diagram name="BDATS - SEM 3" id="bAWRMhxbK4lThoLXx4Rh">
+        <mxGraphModel dx="2598" dy="1368" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-0"/>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-1" parent="z80Zeq63Nkb3A3HY7hVA-0"/>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Thursday L6 CYBER&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1120" y="380" width="420" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-23" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;COM625 - Synoptic Work Based IT Project&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1120" y="480" width="420" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1340" y="430" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-26" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1120" y="430" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-27" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Thursday L6 - SOFTWARE&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1120" y="600" width="420" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-28" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;COM625 - Synoptic Work Based IT Project&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1120" y="700" width="420" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-30" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1340" y="650" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-31" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1120" y="650" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-37" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Thursday L6 - NETWORKING&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1120" y="160" width="420" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-38" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;COM625 - Synoptic Work Based IT Project&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1120" y="260" width="420" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-40" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1340" y="210" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-41" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="1120" y="210" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="240" y="60" width="1300" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="z80Zeq63Nkb3A3HY7hVA-48" value="BDATS DEGREE APPRENTICESHIP DELIVERY - SEMESTER 3 (May-Sept)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;fontStyle=1" parent="z80Zeq63Nkb3A3HY7hVA-1" vertex="1">
+                    <mxGeometry x="369" y="65" width="1030" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="BDATS_SOFTWARE" id="IDxoDhFUZz8goqclk6p1">
+        <mxGraphModel dx="2309" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-0"/>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-1" parent="1_NoqtApiibmHGhhlHiK-0"/>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="42" y="470" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="42" y="280" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="42" y="90" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-5" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM411&lt;br&gt;Problem Solving through Programming)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="202" y="160" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;COM412&lt;br&gt;Introduction to Networks&lt;br&gt;&amp;amp; Security&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="432" y="160" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;SEMESTER 1 (Sept-Jan)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="202" y="110" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM417&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Introduction to Databases&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="910" y="160" width="212" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-10" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 2 (Jan-May)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="682" y="110" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM423&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Systems Analysis &amp;amp; Design&amp;nbsp;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="1162" y="160" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM421&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Data Structures,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Algorithms &amp;amp; Maths&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="1392" y="160" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-13" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 3 (May-Sept)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="1162" y="110" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM519&lt;br&gt;Advanced Databases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="432" y="350" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-16" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;COM624&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;Machine Learning&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="202" y="540" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-18" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;SEMESTER 1 (Sept-Jan)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="202" y="300" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-19" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 2 (Jan-May)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="682" y="300" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-20" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 3 (May-Sept)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="1162" y="300" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;SEMESTER 1 (Sept-Jan)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="202" y="490" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-22" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 2 (Jan-May)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="682" y="490" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-23" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 3 (May-Sept)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="1162" y="490" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-24" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Level 4&lt;br&gt;(Year 1)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="62" y="145" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-25" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Level 5&lt;br&gt;(Year 2)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="72" y="335" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-26" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Level 6&lt;br&gt;(Year 3)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="72" y="525" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM617&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Industrial Consulting Project&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="682" y="545" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM618&lt;br&gt;Data Science&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="912" y="545" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM532&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based IT Project Management&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="1162" y="350" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM530&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based Business Organisation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="1392" y="350" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COMXXX (Zero Credit)&lt;br&gt;Digital Technology Solutions Gateway&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="1162" y="540" width="440" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="42" y="670" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COMXXX (40 Credit)&lt;br&gt;Digital &amp;amp; Technology Solutions EPA&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontColor=#ffffff;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="202" y="740" width="440" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-36" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Sept-Jan&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontColor=#ffffff;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="202" y="690" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-37" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;EPA&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="72" y="725" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1_NoqtApiibmHGhhlHiK-38" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;BDATS Software Engineer - New Standard 2023 Version 1.1&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="42" y="10" width="1040" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyI0z2VFPIabcOspeWA6-0" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM528&lt;br&gt;&amp;nbsp;Object orientated&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="202" y="350" width="208" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="FyI0z2VFPIabcOspeWA6-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM619&lt;br&gt;Dev Ops&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="430" y="540" width="212" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="wze11_uXiys3I81di1LD-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM422&lt;br&gt;Software Testing &amp;amp; Reliability Engineering&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="682" y="160" width="208" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="eyPDoyy5ns5S91ZpYRCQ-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM527&lt;br&gt;Mobile Application Dev&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="682" y="350" width="208" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="eyPDoyy5ns5S91ZpYRCQ-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM526&lt;br&gt;Introduction to AI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1_NoqtApiibmHGhhlHiK-1" vertex="1">
+                    <mxGeometry x="910" y="350" width="212" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="BDATS_NETWORK" id="daNHZ3TRiOjiiwbFkDUF">
+        <mxGraphModel dx="2078" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-0"/>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-1" parent="sV7EwwiW8VQXavG21FDw-0"/>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="42" y="470" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="42" y="280" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-17" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 3 (May-Sept)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="1162" y="300" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-18" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;SEMESTER 1 (Sept-Jan)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="202" y="490" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-19" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 2 (Jan-May)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="682" y="490" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-20" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 3 (May-Sept)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="1162" y="490" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-22" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Level 5&lt;br&gt;(Year 2)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="72" y="335" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-23" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Level 6&lt;br&gt;(Year 3)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="72" y="525" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM617&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Industrial Consulting Project&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="682" y="545" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM532&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based IT Project Management&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="1162" y="350" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM530&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based Business Organisation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="1392" y="350" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COMXXX (Zero Credit)&lt;br&gt;Digital Technology Solutions Gateway&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="1162" y="540" width="440" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="42" y="670" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COMXXX (40 Credit)&lt;br&gt;Digital &amp;amp; Technology Solutions EPA&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontColor=#ffffff;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="202" y="740" width="440" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-31" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Sept-Jan&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontColor=#ffffff;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="202" y="690" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-32" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;EPA&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="72" y="725" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="sV7EwwiW8VQXavG21FDw-33" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;BDATS Network Engineer - New Standard 2023 Version 1.1&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="47" y="10" width="1030" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9P6Vkf4_AZJ8KC9q507G-2" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;COM611&lt;br&gt;Computer Systems&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="202" y="545" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9P6Vkf4_AZJ8KC9q507G-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM615&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Network Management&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="422" y="545" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="x6s4asIGI9qGSP67Dqck-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM614&lt;br&gt;Cloud Computing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="sV7EwwiW8VQXavG21FDw-1" vertex="1">
+                    <mxGeometry x="912" y="545" width="210" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="BDATS_CYBER" id="LuzGWg6cHDbvfz2bFtNC">
+        <mxGraphModel dx="2598" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-0"/>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-1" parent="keYp-FxEzvg4J2pBW55y-0"/>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="42" y="470" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="42" y="280" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-14" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 3 (May-Sept)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="1162" y="300" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;SEMESTER 1 (Sept-Jan)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="202" y="490" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-16" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 2 (Jan-May)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="682" y="490" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-17" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;SEMESTER 3 (May-Sept)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="1162" y="490" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-19" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Level 5&lt;br&gt;(Year 2)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="72" y="335" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-20" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Level 6&lt;br&gt;(Year 3)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="72" y="525" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM617&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Industrial Consulting Project&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="682" y="545" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM532&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based IT Project Management&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="1162" y="350" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM530&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Work Based Business Organisation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="1392" y="350" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COMXXX (Zero Credit)&lt;br&gt;Digital Technology Solutions Gateway&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="1162" y="540" width="440" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="42" y="670" width="1580" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COMXXX (40 Credit)&lt;br&gt;Digital &amp;amp; Technology Solutions EPA&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontColor=#ffffff;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="202" y="740" width="440" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-27" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Sept-Jan&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontColor=#ffffff;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="202" y="690" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-28" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;EPA&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="72" y="725" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-29" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;BDATS Cyber Sercurity - New Standard 2023 Version 1.1&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="62" y="10" width="1000" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM613&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Cyber Ops&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="202" y="545" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-33" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;COM615&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Network Management&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="422" y="545" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="keYp-FxEzvg4J2pBW55y-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM614&lt;br&gt;Cloud Computing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="keYp-FxEzvg4J2pBW55y-1" vertex="1">
+                    <mxGeometry x="912" y="545" width="210" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>

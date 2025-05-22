@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15" pages="4">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2" pages="4">
   <diagram name="BSc Computing" id="5oKkY3aoXNXuIIxceFsS">
     <mxGraphModel dx="1498" dy="953" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BSc Software Engineering" id="3MNGfRF_Feda_YQG2LIf">
-    <mxGraphModel dx="1419" dy="620" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="910" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="A-2Iu6MPS0eFOaTUJ5Hn-0" />
         <mxCell id="A-2Iu6MPS0eFOaTUJ5Hn-1" parent="A-2Iu6MPS0eFOaTUJ5Hn-0" />
@@ -267,8 +267,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="BSc Computer Systems Networks" id="GCOJwqth1ke5JyDyeJ3l">
-    <mxGraphModel dx="1306" dy="1173" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+  <diagram name="BSc Computer Networks Engineering" id="GCOJwqth1ke5JyDyeJ3l">
+    <mxGraphModel dx="1877" dy="910" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="R5C2FWtkYzCYOCpU7KXr-0" />
         <mxCell id="R5C2FWtkYzCYOCpU7KXr-1" parent="R5C2FWtkYzCYOCpU7KXr-0" />
@@ -360,7 +360,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BSc Cyber Security Management" id="WsX7tydId6qzb1-W1XAv">
-    <mxGraphModel dx="1419" dy="620" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="910" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="s90AZlSUVkhC5c3KIru5-0" />
         <mxCell id="s90AZlSUVkhC5c3KIru5-1" parent="s90AZlSUVkhC5c3KIru5-0" />
