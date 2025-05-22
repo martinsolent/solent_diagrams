@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4" pages="4">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15" pages="4">
   <diagram name="BSc Computing" id="5oKkY3aoXNXuIIxceFsS">
-    <mxGraphModel dx="1194" dy="688" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1498" dy="953" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="dmCYJQqiZVbZdqvDrLWX-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM430&lt;br&gt;Introduction to Databases&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="192" y="273" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dmCYJQqiZVbZdqvDrLWX-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM418&lt;br&gt;Data Analysis, Tools and Application &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="dmCYJQqiZVbZdqvDrLWX-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM432&lt;br&gt;Data Analysis, Tools and Application &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="448" y="273" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dmCYJQqiZVbZdqvDrLWX-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM419&lt;br&gt;Web Technologies&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -28,8 +28,8 @@
         <mxCell id="dmCYJQqiZVbZdqvDrLWX-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Semester 1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="64" y="177" width="112" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dmCYJQqiZVbZdqvDrLWX-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;BSc Computer Science&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="64" y="97" width="288" height="44" as="geometry" />
+        <mxCell id="dmCYJQqiZVbZdqvDrLWX-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;BSc Computer Science - Sept Start&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="64" y="97" width="420" height="44" as="geometry" />
         </mxCell>
         <mxCell id="dmCYJQqiZVbZdqvDrLWX-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Year 1&amp;nbsp; (Level 4)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="64" y="138" width="144" height="32" as="geometry" />
@@ -88,11 +88,95 @@
         <mxCell id="dmCYJQqiZVbZdqvDrLWX-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Options (Choose 2)&lt;/b&gt;&lt;br&gt;COM619 DevOps &lt;br&gt;COM620 Immersive Technologies&lt;br&gt;COM621 UX Strategies&lt;br&gt;COM623 Contemporary Web Apps&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="64" y="864" width="268" height="112" as="geometry" />
         </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Semester 2&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1172" width="112" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM411 &lt;br&gt;Problem Solving Through Programming&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="192" y="1076" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM416&lt;br&gt;UX&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1172" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM412 &lt;br&gt;Intro to Networks and Security&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="448" y="1172" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM430&lt;br&gt;Introduction to Databases&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="192" y="1172" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM432&lt;br&gt;Data Analysis, Tools and Application &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="448" y="1076" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM419&lt;br&gt;Web Technologies&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1076" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Semester 1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1076" width="112" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;BSc Computer Science - Jan Start&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="64" y="996" width="412" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Year 1&amp;nbsp; (Level 4)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1037" width="144" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Semester 2&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1412" width="112" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM519&lt;br&gt;Advanced Database Systems&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="192" y="1316" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM534&lt;br&gt;Object Oriented Development&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1316" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM517 &lt;br&gt;Analytics and Business Intelligence&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="448" y="1316" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM514&lt;br&gt;Research Methods Project&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="192" y="1412" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM520&lt;br&gt;Human Computer Interaction&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="448" y="1412" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM518&lt;br&gt;Web Application Development&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1412" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Semester 1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1316" width="112" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Year 2&amp;nbsp; (Level 5)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1277" width="144" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Semester 2&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1652" width="112" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;OPTION 1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="192" y="1556" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM618&lt;br&gt;Data Science&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1556" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;OPTION 2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="448" y="1556" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;COM617&lt;br&gt;Industrial Consulting Projec&lt;/font&gt;t&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="192" y="1652" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM629&lt;br&gt;Dissertation Project &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="448" y="1652" width="496" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Semester 1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1556" width="112" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Year 3&amp;nbsp; (Level 6)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1517" width="144" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZkUvFLCKGvjJ1akCM5-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Options (Choose 2)&lt;/b&gt;&lt;br&gt;COM619 DevOps &lt;br&gt;COM620 Immersive Technologies&lt;br&gt;COM621 UX Strategies&lt;br&gt;COM623 Contemporary Web Apps&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="64" y="1763" width="268" height="112" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="BSc Software Engineering" id="3MNGfRF_Feda_YQG2LIf">
-    <mxGraphModel dx="1404" dy="806" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1419" dy="620" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="A-2Iu6MPS0eFOaTUJ5Hn-0" />
         <mxCell id="A-2Iu6MPS0eFOaTUJ5Hn-1" parent="A-2Iu6MPS0eFOaTUJ5Hn-0" />
@@ -144,7 +228,7 @@
         <mxCell id="A-2Iu6MPS0eFOaTUJ5Hn-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM527&lt;br&gt;Mobile Application Development&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="A-2Iu6MPS0eFOaTUJ5Hn-1" vertex="1">
           <mxGeometry x="448" y="513" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A-2Iu6MPS0eFOaTUJ5Hn-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM518 (SEM 2)&lt;br&gt;Web Application Development&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="A-2Iu6MPS0eFOaTUJ5Hn-1" vertex="1">
+        <mxCell id="A-2Iu6MPS0eFOaTUJ5Hn-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;COM518&lt;br&gt;Web Application Development&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="A-2Iu6MPS0eFOaTUJ5Hn-1" vertex="1">
           <mxGeometry x="704" y="513" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A-2Iu6MPS0eFOaTUJ5Hn-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Semester 1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="A-2Iu6MPS0eFOaTUJ5Hn-1" vertex="1">
@@ -276,7 +360,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BSc Cyber Security Management" id="WsX7tydId6qzb1-W1XAv">
-    <mxGraphModel dx="1306" dy="1173" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1419" dy="620" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="s90AZlSUVkhC5c3KIru5-0" />
         <mxCell id="s90AZlSUVkhC5c3KIru5-1" parent="s90AZlSUVkhC5c3KIru5-0" />
